@@ -1,2 +1,2 @@
 # Salty-Bacon-Farmers 
- works with android 4.4 or newer
+ v2 works with android 4.4 or newer
