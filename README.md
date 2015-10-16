@@ -1,2 +1,2 @@
 # Salty-Bacon-Farmers 
- v2 works with android 4.4 or newer
+ final build is here https://github.com/NoFlintGrey/Calculator.git
